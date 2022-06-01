@@ -2,7 +2,7 @@
     class dbConfig{
          static $DBConfig = [
             "host"=>"localhost",
-            "dbname"=>"test",
+            "dbname"=>"blog",
             "username"=>"root",
             "password"=>"",
             "charset"=>"utf8"
